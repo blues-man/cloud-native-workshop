@@ -6,6 +6,8 @@ This one day hands-on cloud-native workshops provides developers and introductio
 and gives them an experience of building cloud-native applications using OpenShift, Eclipse Che7, Spring Boot,
 Quarkus, Vert.x and more.
 
+![Architecture](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/3.2/guide/images/coolstore-arch.png "Architecture")
+
 ![Architecture Screenshot](https://raw.githubusercontent.com/jbossdemocentral/coolstore-microservice/ocp-4.1/docs/images/store.png "CoolStore Online Shop")
 
 ## Agenda
