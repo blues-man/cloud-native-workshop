@@ -1,6 +1,6 @@
 # Cloud Native Workshop
 
-[![Contribute](factory-contribute.svg)](https://codeready-workspaces.apps.cluster-vodafone-438c.vodafone-438c.example.opentlc.com/factory?url=https://github.com/blues-man/cloud-native-workshop/tree/3.2)
+[![Contribute](factory-contribute.svg)](https://codeready-workspaces.apps.cluster-vodafone-438c.vodafone-438c.example.opentlc.com/factory?url=https://github.com/blues-man/cloud-native-workshop/tree/demo)
 
 
 ## Overview
